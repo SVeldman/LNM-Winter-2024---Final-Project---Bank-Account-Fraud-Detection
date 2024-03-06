@@ -1,0 +1,1 @@
+This is the github repository for our final project for the Winter Quarter 2024 LNM course.
